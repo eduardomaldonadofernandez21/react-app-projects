@@ -68,3 +68,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+# Crear projecto y ejecutarlo:
+npx create-react-app nombre-app
+cd nombre-app
+npm start
+# -------
+
+# Instalar Bootstrap en React y guardarlo como dependencia del proyecto (con la terminal)
+npm install --save bootstrap
+# importar boostrap en tu archivo src/index.js
+import 'bootstrap/dist/css/bootstrap.css';
+# -------
+
+# instalar SASS en el proyecto para utilizar los archivos scss
