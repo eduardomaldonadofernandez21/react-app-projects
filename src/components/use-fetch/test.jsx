@@ -1,4 +1,3 @@
-import { BsTypeH3 } from "react-icons/bs";
 import useFetch from ".";
 
 export default function UseFetchHookTest() {
